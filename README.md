@@ -17,7 +17,7 @@ npm start
 # Client
 
 # navigate to client directory
-cd server
+cd client
 # Install dependencies
 npm install
 # run client 
